@@ -1,0 +1,74 @@
+{
+  "_from": "cordova-plugin-scanbot-sdk",
+  "_id": "cordova-plugin-scanbot-sdk@3.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-jZ1t0W38LcHW/KNbsgCBCXP4MpH0ZaabhFCTLVAyX/f/w7/ejQ7r4byg1Scs9HtzvpYNv+82vSTji9LrdcUxuQ==",
+  "_location": "/cordova-plugin-scanbot-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-scanbot-sdk",
+    "name": "cordova-plugin-scanbot-sdk",
+    "escapedName": "cordova-plugin-scanbot-sdk",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-scanbot-sdk/-/cordova-plugin-scanbot-sdk-3.2.1.tgz",
+  "_shasum": "cc519798ed7c1f4027f5dd698b46bb86e495a8e2",
+  "_spec": "cordova-plugin-scanbot-sdk",
+  "_where": "C:\\Users\\jorge.prados.BABEL-SI\\Desktop\\Git Example",
+  "author": {
+    "name": "doo GmbH"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-scanbot-sdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Plugin for Scanbot SDK",
+  "homepage": "https://scanbot.io/sdk.html",
+  "keywords": [
+    "scanbot",
+    "sdk",
+    "camera",
+    "scanner",
+    "scanning",
+    "document detection",
+    "document scanner",
+    "edge detection",
+    "cropping",
+    "pdf",
+    "pdf creation",
+    "image optimization",
+    "image filter",
+    "ocr",
+    "optical character recognition",
+    "barcode",
+    "barcode scanner",
+    "qr code",
+    "qr code scanner",
+    "mrz scanner",
+    "cordova",
+    "plugin",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "main": "www/ScanbotSdk.js",
+  "name": "cordova-plugin-scanbot-sdk",
+  "scripts": {
+    "prepublish": "./prepare-scanbotsdk-framework.sh 1.9.3"
+  },
+  "types": "index.d.ts",
+  "version": "3.2.1"
+}
